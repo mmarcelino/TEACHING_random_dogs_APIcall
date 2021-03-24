@@ -1,0 +1,21 @@
+h1 {
+  font-size: 2em;
+  margin-bottom: 40px; }
+
+h2 {
+  font-size: 1.5em;
+  font-weight: lighter; }
+
+.button-section {
+  margin: 3em;
+  text-align: center; }
+
+.card {
+  min-height: 400px;
+  max-height: 400px; }
+  .card img {
+    height: 400px;
+    width: 100%;
+    object-fit: cover; }
+
+/*# sourceMappingURL=style.css.map */
